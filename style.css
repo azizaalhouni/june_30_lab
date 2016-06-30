@@ -1,5 +1,5 @@
 header{
-  background: #888;
+  background: #D3D3D3;
 }
 
 .header_inner {
@@ -50,4 +50,9 @@ main {
 .rightSection {
   float: right;
   width: 660px;
+}
+.secondSectionTop{
+  background:#D3D3D3;
+  border-radius: 2px;
+  font-size:14px;
 }
