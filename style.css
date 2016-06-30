@@ -1,0 +1,53 @@
+header{
+  background: #888;
+}
+
+.header_inner {
+  width: 960px;
+  margin: 0 auto;
+}
+.header_top {
+  background: white;
+  height: 60px;
+}
+
+.header_logo {
+  float: left;
+}
+
+.header_banner {
+  float: left;
+}
+
+.header_style {
+  float: right;
+}
+
+.header_bottom {
+  height: 60px;
+}
+
+header ul li {
+  display: inline-block;
+  padding: 24px 15px;
+  font-size: 12px;
+}
+
+main {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.leftSection {
+  width: 300px;
+  float: left;
+}
+
+.rightSection {
+  float: right;
+  width: 660px;
+}
