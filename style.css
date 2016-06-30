@@ -37,3 +37,17 @@ main {
   width: 960px;
   margin: 0 auto;
 }
+
+.clearfix {
+  clear: both;
+}
+
+.leftSection {
+  width: 300px;
+  float: left;
+}
+
+.rightSection {
+  float: right;
+  width: 660px;
+}
